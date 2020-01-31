@@ -10,7 +10,7 @@
 
 title: NerdGlitch                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Videogames, wrestling e altre robe.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.
@@ -51,7 +51,7 @@ timezone: Europe/Rome
 
 google_analytics:
   # Fill with your Google Analytics ID
-  id: 'andreferrando9@gmail.com'
+  id: 'UA-157543231-1'
   # The Google Analytics pageviews switch.
   # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
   pv: false
