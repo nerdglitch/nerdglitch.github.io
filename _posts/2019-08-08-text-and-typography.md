@@ -8,7 +8,6 @@ tags: [typography]
 
 [![Watch the video](https://img.youtube.com/vi/4aCJNd4wnho/maxresdefault.jpg)](https://youtu.be/4aCJNd4wnho)
 
-<iframe src="https://open.spotify.com/embed-podcast/show/41P4YuwAX1ngV6HPIrcmz9" width="100%" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/4jIvW3t3LJpFQ7G5zrAQ7p" width="100%" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
