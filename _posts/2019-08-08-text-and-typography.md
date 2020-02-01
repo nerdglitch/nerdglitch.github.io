@@ -10,6 +10,8 @@ tags: [typography]
 
 <iframe src="https://open.spotify.com/embed-podcast/show/41P4YuwAX1ngV6HPIrcmz9" width="100%" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+<iframe src="https://open.spotify.com/embed-podcast/episode/4jIvW3t3LJpFQ7G5zrAQ7p" width="100%" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in this theme.
 
 ## Titles
