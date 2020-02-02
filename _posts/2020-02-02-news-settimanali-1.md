@@ -33,8 +33,11 @@ Un sistema di rimborso così poco userfriendly è solo che utile a Blizzard, anc
 # Earning Calls per le compagnie più grandi
 
 La seconda notizia è il fatto che in questo periodo ci sono le earning calls delle compagnie più grandi e questo ci permette di avere una visione d'insieme dell'industria videoludica in termini di numeri riguardanti il Q4 2019. 
-Microsoft ha annunciato che il numero di subscribers al Game Pass è più che raddoppiato, EA invece che i live service durante questo periodo sono andati particolarmente bene, con un incremento del 15% rispetto allo scorso anno, ma soprattutto Star Wars ha reso particolarmente bene, con Battlefront 2 si è comportato meglio delle previsioni fatte durante il Q3 2019 grazie soprattutto agli ultimi aggiornamenti, mentre Fallen Order ha venduto molto al di là delle loro aspettative, con oltre 8 milioni di copie vendute. Gli stock di EA sono leggermente in calo, ma probabilmente è dovuto al fatto che non ci sono state uscite negli ultimi 2 mesi e hanno in canna colpi come Medal of Honor vr, una remaster di Command & Conquer e soprattutto di KOTOR. 
+
+Microsoft ha annunciato che il numero di subscribers al Game Pass è più che raddoppiato, EA invece che i live service durante questo periodo sono andati particolarmente bene, con un incremento del 15% rispetto allo scorso anno, ma soprattutto Star Wars ha reso particolarmente bene, con Battlefront 2 si è comportato meglio delle previsioni fatte durante il Q3 2019 grazie soprattutto agli ultimi aggiornamenti, mentre Fallen Order ha venduto molto al di là delle loro aspettative, con oltre 8 milioni di copie vendute. Gli stock di EA sono leggermente in calo, ma probabilmente è dovuto al fatto che non ci sono state uscite negli ultimi 2 mesi e hanno in canna colpi come Medal of Honor VR, una remaster di Command & Conquer e soprattutto di Star Wars Knights of the Old Republic. 
+
 Tutto questo successo potrebbe portare EA a dare molta più libertà alle software house come Respawn, Bioware e DICE, permettendo loro di creare prodotti di ottima qualità e dalla parte del consumatore, non come quella spazzatura che è l'Ultimate Team di FIFA. In effetti qualche settimana fa era uscita la notizia sul Los Angeles Times che Vince Zampella, il CEO di Respawn, aveva sempre più potere all'interno di EA, soprattutto grazie al successo di Apex Legends ed ora, grazie alle vendite ottime di Fallen Order, si può solo che sperare che questa scalata nelle gerarchie sia sempre più forte.
+
 Infine Nintendo ha annunciato che oltre il 30% dei possessori di Switch ha acquistato Pokémon Spada o Scudo, portando le vendite a poco più di 16 milioni di copie. 
 Ma con Nintendo e Pokémon non è finita qui purtroppo.
 
@@ -44,12 +47,15 @@ Ma con Nintendo e Pokémon non è finita qui purtroppo.
 
 Oltre ai due dlc annunciati da Gamefreak per Pokémon Spada e Scudo e venduti a 30 dollari, è stato pure annunciato Pokémon Home, che è la soluzione nata per sostituire Pokémon Bank. Sarà possibile usufruire di Pokémon Home in due modi, servizio base oppure premium, con notevoli differenze tra i due. 
 Il prezzo della versione premium sarà di 3 al mese, 5 per 3 mesi oppure 16 annui. La possibilità di passare i Pokémon dalla Pokémon Bank alla nuova Pokémon Home ci sarà solo pagando il servizio premium.
+
 Inoltre le feature presenti sono completamente sballate e non bilanciate, il numero di Pokémon depositabili sono 30 nella versione base e 6000 nella versione premium. 
 Praticamente GF ha creato il problema e per risolverlo devi pagare, trasformando questo sistema in un free-to-play stile videogioco da smartphone, in cui le condizioni dell'utente che non vuole pagare sono talmente restrittive e terribili che non ha altra scelta se non quella di sborsare 16 euro l'anno. 
+
 Per mostrare quanto questa scelta poss a fruttare in termini economici a Nintendo basta fare un semplicissimo calcolo:
 un file .pkm, in cui sono contenute tutte le caratteristiche di un Pokémon, occupa 344 byte di memoria, quindi archiviarne 6000 occuperebbe solamente 2.064 Megabyte. 
 Quindi moltiplicando questo numero per circa 10 milioni di utenti, si arriverebbe a circa 20 terabyte di memoria occupati da tutti i Pokémon di tutti gli utenti.
 Il mantenimento di una tale quantità di dati in un server sarà di circa 30000 euro all'anno, quindi il profitto possibile sarebbe veramente clamoroso, praticamente come guadagnare 160 milioni di euro l'anno facendo il minimo sindacale.
+
 Pokémon sta diventando un franchise sempre più avido, infatti si sta arrivando ad 126 dollari tra gioco base (60), dlc (30), Pokémon home (16) e Nintendo Online (20) per avere un'esperienza quasi completa del prodotto, raddoppiandoli se una persona volesse effettivamente "catturarli tutti" (solo per il primo anno). 
 Ma tanto ai fan di Pokémon andrà bene sicuramente.
 
