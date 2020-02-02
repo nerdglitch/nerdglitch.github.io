@@ -84,11 +84,11 @@ Ultima notizia di oggi è quella che durante questa settimana Plague Inc, il gio
 
 Se volete potete ascoltare la versione podcast delle news qui sotto:
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/4jIvW3t3LJpFQ7G5zrAQ7p" width="100%" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/2JxMtEIkiT0Yc6l6vvIuNr" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Se preferite invece sentirlo su YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/4aCJNd4wnho/maxresdefault.jpg)](https://youtu.be/4aCJNd4wnho)
+[![Watch the video](https://img.youtube.com/vi/ZdTFrumrj5I/maxresdefault.jpg)](hhttps://youtu.be/ZdTFrumrj5I)
 
 
 
