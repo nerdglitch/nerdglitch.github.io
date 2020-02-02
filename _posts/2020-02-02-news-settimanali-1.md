@@ -1,5 +1,5 @@
 ---
-title: "Warcraft III: Reforged peggior videogioco di sempre, Pokémon Home e Record per Plague Inc. - News della Settimana Videoludica"
+title: "Warcraft III: Reforged peggior videogioco di sempre, Pokémon Home e Record per Plague Inc. - News della Settimana Videoludica #1"
 date: 2020-02-02 19:00:00 +0100
 categories: [News RoundUp]
 tags: [News]
