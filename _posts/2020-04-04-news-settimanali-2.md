@@ -31,8 +31,17 @@ Altro titolo che doveva uscire ad Aprile era Outer Worlds su Switch, che ora usc
 Queste notizie sono sicuramente deludenti da una parte, ma la sicurezza delle persone è sicuramente da mettere al primo posto. 
 
 
-# Fallout76 arriva su Steam assieme alla nuova espansione.
+# Fallout76 e Mount and Blade II: Bannerlord’s su Steam.
+
 
 
 
 # 
+
+
+# Il mondo del gaming si muove per la beneficienza.
+
+Per chiudere le notizie della settimana in modo sicuramente migliore dell'ultimo segmento, molte parti dell'industria videoludica si stanno muovendo per aiutare le persone più in difficoltà durante questo periodo di pandemia.
+Sony sta allestendo un fondo da 100 milioni di dollari per aiutare contro l'emergenza Covid-19 e verranno dati in supporto a medici in prima linea, bambini ed educatori.
+Rockstar ha annunciato che il 5% del ricavato proveniente dalle microtransazioni di GTA Online e Red Dead Online andrà a supporto di fondazioni nella lotta contro questa pandemia.
+Humble Bundle (che da sempre offre gran parte del suo fatturato ad associazioni di beneficienza) ha organizzato un bundle da 28 euro chiamato (Conquer COvid-19){https://www.humblebundle.com/conquer-covid19-bundle?hmb_source=humble_home&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_twos_tile_index_1_c_conquercovid_bundle}, in cui sono presenti giochi del calibro di Undertale, Hollow Knight, The Witness, SuperHot, Darksiders 1 e2, SNiper Elite 3, Europa Universalis 4 e molti altri. Tale bundle ha già raggiunto e superato gli oltre 4 milioni di euro di vendite e sicuramente aiuterà molte vite.
