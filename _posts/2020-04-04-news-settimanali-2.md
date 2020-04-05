@@ -1,5 +1,5 @@
 ---
-title: "Il rinvio di The Last of Us: Part II - News della Settimana Videoludica #2"
+title: "Il rinvio di The Last of Us: Part II, Pitchford colpisce ancora e il caso di Mount and Blade II: Bannerlords - News della Settimana Videoludica #2"
 date: 2020-04-04 14:00:00 +0100
 categories: [News RoundUp]
 tags: [News]
@@ -84,4 +84,4 @@ Sony sta allestendo un fondo da 100 milioni di dollari per aiutare contro l'emer
 
 Rockstar ha annunciato che il 5% del ricavato proveniente dalle microtransazioni di GTA Online e Red Dead Online andrà a supporto di fondazioni nella lotta contro questa pandemia.
 
-Humble Bundle (che da sempre offre gran parte del suo fatturato ad associazioni di beneficienza) ha organizzato un bundle da 28 euro chiamato [Conquer COvid-19](https://www.humblebundle.com/conquer-covid19-bundle?hmb_source=humble_home&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_twos_tile_index_1_c_conquercovid_bundle), in cui sono presenti giochi del calibro di Undertale, Hollow Knight, The Witness, SuperHot, Darksiders 1 e2, SNiper Elite 3, Europa Universalis 4 e molti altri. Tale bundle ha già raggiunto e superato gli oltre 4 milioni di euro di vendite e sicuramente aiuterà molte vite.
+Humble Bundle (che da sempre offre gran parte del suo fatturato ad associazioni di beneficienza) ha organizzato un bundle da 28 euro chiamato [Conquer COVID-19](https://www.humblebundle.com/conquer-covid19-bundle?hmb_source=humble_home&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_twos_tile_index_1_c_conquercovid_bundle), in cui sono presenti giochi del calibro di Undertale, Hollow Knight, The Witness, SuperHot, Darksiders 1 e2, SNiper Elite 3, Europa Universalis 4 e molti altri. Tale bundle ha già raggiunto e superato gli oltre 4 milioni di euro di vendite e sicuramente aiuterà molte vite.
