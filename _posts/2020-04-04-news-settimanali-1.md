@@ -1,5 +1,5 @@
 ---
-title: "Il rinvio di The Last of Us: Part II, Pitchford colpisce ancora e il caso di Mount and Blade II: Bannerlords - News della Settimana Videoludica #2"
+title: "Il rinvio di The Last of Us: Part II, Pitchford colpisce ancora e il caso di Mount and Blade II: Bannerlords - News della Settimana Videoludica #1"
 date: 2020-04-04 14:00:00 +0100
 categories: [News RoundUp]
 tags: [News]
